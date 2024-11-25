@@ -2,8 +2,8 @@
 
 The **Number Converter** is an assembly language project designed to perform efficient and accurate numerical base conversions. This program demonstrates the use of the 8086 microprocessor's instruction set to handle user inputs and display converted results across different numerical systems. 
 
-0️⃣1️⃣ -> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣ -> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣ -> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🅰🅱C D E F
-
+ 0️⃣1️⃣ -> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣ -> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣ -> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣ A B C D E F
+Binary           Octal                    Decimal                          HexaDecimal          
 ## Features
 
 - **Binary Conversions:**
