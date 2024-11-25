@@ -4,7 +4,7 @@ The **Number Converter** is an assembly language project designed to perform eff
 
  0️⃣1️⃣ <-> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣ <-> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣ <-> 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣ A B C D E F 
  
- Binary <--------> Octal <-----------------> Decimal <-----------------------> HexaDecimal          
+ Binary <------> Octal <-----------------> Decimal <-----------------------> HexaDecimal          
  
 ## Features
 
